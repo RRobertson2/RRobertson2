@@ -9,64 +9,86 @@ I have a background in the creative field and am actively transitioning into Inf
 ## Projects
 <!-- Active Directory -->
 <details>
-  <summary><strong>🧩 Active Directory</strong></summary>
+  <summary><strong>Active Directory</strong></summary>
+  <br>
   <ul>
     <li>
-      <strong>AD Domain Setup:</strong> Deployed a Windows Server 2022 domain controller with DNS and DHCP.<br>
-      <a href="#">View Repository</a>
+      <p><strong>AD Domain Setup</strong><br>
+      Built a Windows Server 2022 domain controller with integrated DNS and DHCP services.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="height:1px; opacity:0.1; border:none; background-color:#999;">
     </li>
     <li>
-      <strong>Group Policy Lab:</strong> Created GPOs to manage user access, enforce password policies, and configure desktop environments.<br>
-      <a href="#">View Repository</a>
+      <p><strong>Group Policy Lab</strong><br>
+      Created and tested GPOs to enforce security settings, desktop policies, and password rules.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.1;">
     </li>
     <li>
-      <strong>AD User & OU Management:</strong> Designed an OU structure and created PowerShell scripts to manage users and groups.<br>
-      <a href="#">View Repository</a>
+      <p><strong>User & OU Management</strong><br>
+      Designed an OU structure and used PowerShell to manage users, groups, and permissions.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.1;">
     </li>
   </ul>
 </details>
 
 <!-- Virtualization -->
 <details>
-  <summary><strong>🖥️ Virtualization & Home Lab</strong></summary>
+  <summary><strong>Virtualization & Home Lab</strong></summary>
+  <br>
   <ul>
     <li>
-      <strong>Proxmox Lab:</strong> Built a home lab using Proxmox with multiple virtual machines for hands on IT practice.<br>
-      <a href="#">View Repository</a>
+      <p><strong>Proxmox Lab</strong><br>
+      Built a home lab using Proxmox with multiple virtual machines to simulate enterprise environments.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.2;">
     </li>
     <li>
-      <strong>Linux VM Automation:</strong> Automated Linux VM deployment with cloud-init and Ansible basics.<br>
-      <a href="#">View Repository</a>
+      <p><strong>Linux VM Automation</strong><br>
+      Used cloud-init and basic Ansible scripting to streamline VM deployment and configuration.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.2;">
     </li>
   </ul>
 </details>
 
 <!-- Networking -->
 <details>
-  <summary><strong>🌐 Networking & Security</strong></summary>
+  <summary><strong>Networking & Security</strong></summary>
+  <br>
   <ul>
     <li>
-      <strong>WireGuard VPN:</strong> Set up secure remote access using WireGuard on pfSense with split tunneling.<br>
-      <a href="#">View Repository</a>
+      <p><strong>WireGuard VPN</strong><br>
+      Deployed a secure split-tunnel VPN on pfSense for remote access to internal services.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.2;">
     </li>
     <li>
-      <strong>Network Monitoring:</strong> Configured basic network logging and monitoring using pfSense and Nmap.<br>
-      <a href="#">View Repository</a>
+      <p><strong>Network Monitoring</strong><br>
+      Configured basic network logging and scanning using pfSense, Nmap, and built-in tools.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.2;">
     </li>
   </ul>
 </details>
 
 <!-- Media Server -->
 <details>
-  <summary><strong>🎥 Media Server Projects</strong></summary>
+  <summary><strong>Media Server Projects</strong></summary>
+  <br>
   <ul>
     <li>
-      <strong>Plex on Ubuntu:</strong> Installed and configured Plex Media Server with ZFS storage and Samba shares.<br>
-      <a href="#">View Repository</a>
+      <p><strong>Plex on Ubuntu</strong><br>
+      Installed and configured Plex Media Server with ZFS storage and Samba shares.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.2;">
     </li>
     <li>
-      <strong>Automated Media Library:</strong> Set up automated media organization using Filebot and cron jobs.<br>
-      <a href="#">View Repository</a>
+      <p><strong>Automated Media Library</strong><br>
+      Organized media files using FileBot, cron jobs, and folder-based naming conventions.<br>
+      <a href="#">View Repository</a></p>
+      <hr style="opacity: 0.2;">
     </li>
   </ul>
 </details>
