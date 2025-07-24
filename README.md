@@ -13,8 +13,8 @@ I have a background in the creative field and am actively transitioning into Inf
   <br>
   <ul>
     <li>
-      <p><strong>AD Domain Setup</strong><br>
-      Built a Windows Server 2022 domain controller with integrated DNS and DHCP services.<br>
+      <p><strong>Windows Server 2022 Installation</strong><br>
+      Installing Windows Server 2022 on a virtual machine using Proxmox.<br>
       <a href="https://github.com/RRobertson2/AD-Domain-Setup/tree/main">View Repository</a></p>
       <hr style="height:1px; opacity:0.1; border:none; background-color:#999;">
     </li>
