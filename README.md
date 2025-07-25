@@ -95,5 +95,8 @@ Actively pursuing a career in Information Technology with a focus on support and
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.comptia.org/certifications/network">
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
+</a>
 </div>
