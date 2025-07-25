@@ -4,7 +4,7 @@
 Welcome! This profile highlights technical projects I have completed to build and demonstrate skills in Information Technology. Each repository includes hands on work, documentation, and solutions that reflect my practical experience and learning progress.
 
 ## Objective
-I have a background in the creative field and am actively transitioning into Information Technology. This GitHub account documents hands on technical projects that showcase my growing skills and knowledge. These projects support my goal of starting a career in IT.
+Actively pursuing a career in Information Technology with a focus on support and infrastructure. This GitHub highlights hands on projects that demonstrate problem solving, system configuration, and technical troubleshooting skills relevant to help desk and entry-level IT roles.
 
 ## Projects
 <!-- Active Directory -->
@@ -13,10 +13,10 @@ I have a background in the creative field and am actively transitioning into Inf
   <br>
   <ul>
     <li>
-      <p><strong>Windows Server 2022 Installation</strong><br>
+      <p><strong>Windows AD-Domain-Install On VM</strong><br>
       Installing Windows Server 2022 on a virtual machine using Proxmox.<br>
       <a href="https://github.com/RRobertson2/AD-Domain-Setup/tree/main">View Repository</a></p>
-      <hr style="height:1px; opacity:0.1; border:none; background-color:#999;">
+      <hr style="opacity: 0.1;">
     </li>
     <li>
       <p><strong>Group Policy Lab</strong><br>
