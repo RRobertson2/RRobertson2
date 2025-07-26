@@ -19,8 +19,8 @@ Actively pursuing a career in Information Technology with a focus on support and
       <hr style="opacity: 0.1;">
     </li>
     <li>
-      <p><strong>Group Policy Lab</strong><br>
-      Created and tested GPOs to enforce security settings, desktop policies, and password rules.<br>
+      <p><strong>Configuring Server as a Domain Controller</strong><br>
+      Configuring Windows Server 2022 as a domain controller on a virtual machine, including Active Directory and certificate services.<br>
       <a href="#">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
