@@ -25,7 +25,7 @@ Actively pursuing a career in Information Technology with a focus on support and
       <hr style="opacity: 0.1;">
     </li>
     <li>
-      <p><strong>User & OU Management</strong><br>
+      <p><strong>Creating Domain Users</strong><br>
       Designed an OU structure and used PowerShell to manage users, groups, and permissions.<br>
       <a href="#">View Repository</a></p>
       <hr style="opacity: 0.1;">
