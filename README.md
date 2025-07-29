@@ -30,12 +30,10 @@ Actively pursuing a career in Information Technology with a focus on support and
       <a href="https://github.com/RRobertson2/Creating-Domain-Users">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
-  </ul>
   <li>
-      <p><strong>Attaching Windows 11 VM to Domain</strong><br>
-      Designed an OU structure and used PowerShell to manage users, groups, and permissions.<br>
-      <a href="
-        ">View Repository</a></p>
+      <p><strong>Attaching Eindows 11 VM to Domain</strong><br>
+      Configuring Windows Server 2022 as a domain controller on a virtual machine, including Active Directory and certificate services.<br>
+      <a href="https://github.com/RRobertson2/Configuring-Server-as-a-Domain-Controller/blob/main/README.md">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
   </ul>
