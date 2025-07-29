@@ -31,6 +31,14 @@ Actively pursuing a career in Information Technology with a focus on support and
       <hr style="opacity: 0.1;">
     </li>
   </ul>
+  <li>
+      <p><strong>Attaching Windows 11 VM to Domain</strong><br>
+      Designed an OU structure and used PowerShell to manage users, groups, and permissions.<br>
+      <a href="
+        ">View Repository</a></p>
+      <hr style="opacity: 0.1;">
+    </li>
+  </ul>
 </details>
 
 <!-- Virtualization -->
