@@ -43,60 +43,27 @@ Actively pursuing a career in Information Technology with a focus on support and
 <details>
   <summary><strong>Virtualization & Home Lab</strong></summary>
   <br>
-  <ul>
-    <li>
-      <p><strong>Proxmox Lab</strong><br>
-      Built a home lab using Proxmox with multiple virtual machines to simulate enterprise environments.<br>
-      <a href="#">View Repository</a></p>
-      <hr style="opacity: 0.2;">
-    </li>
-    <li>
-      <p><strong>Linux VM Automation</strong><br>
-      Used cloud-init and basic Ansible scripting to streamline VM deployment and configuration.<br>
-      <a href="#">View Repository</a></p>
-      <hr style="opacity: 0.2;">
-    </li>
-  </ul>
+
+
+ 
 </details>
 
 <!-- Networking -->
 <details>
   <summary><strong>Networking & Security</strong></summary>
   <br>
-  <ul>
-    <li>
-      <p><strong>WireGuard VPN</strong><br>
-      Deployed a secure split-tunnel VPN on pfSense for remote access to internal services.<br>
-      <a href="#">View Repository</a></p>
-      <hr style="opacity: 0.2;">
-    </li>
-    <li>
-      <p><strong>Network Monitoring</strong><br>
-      Configured basic network logging and scanning using pfSense, Nmap, and built-in tools.<br>
-      <a href="#">View Repository</a></p>
-      <hr style="opacity: 0.2;">
-    </li>
-  </ul>
+
+
+  
 </details>
 
 <!-- Media Server -->
 <details>
   <summary><strong>Media Server Projects</strong></summary>
   <br>
-  <ul>
-    <li>
-      <p><strong>Plex on Ubuntu</strong><br>
-      Installed and configured Plex Media Server with ZFS storage and Samba shares.<br>
-      <a href="#">View Repository</a></p>
-      <hr style="opacity: 0.2;">
-    </li>
-    <li>
-      <p><strong>Automated Media Library</strong><br>
-      Organized media files using FileBot, cron jobs, and folder-based naming conventions.<br>
-      <a href="#">View Repository</a></p>
-      <hr style="opacity: 0.2;">
-    </li>
-  </ul>
+
+
+  
 </details>
 
 ## Certifications
