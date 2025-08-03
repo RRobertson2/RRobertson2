@@ -50,8 +50,8 @@ Actively pursuing a career in Information Technology with a focus on support and
   <summary><strong>10 Most Common Troubleshooting Active Directory Issues</strong></summary>
   <br>
 <li>
-      <p><strong>10 Most Common Troubleshooting Active Directory Issues</strong><br>
-      Configuring Windows Server 2022 as a domain controller on a virtual machine, including Active Directory and certificate services.<br>
+      <p><strong>1. Password Expired / Can’t Log In</strong><br>
+      This issue occurs when a user's password has expired per domain policy or was flagged for change and the user is unable to log in.<br>
       <a href="https://github.com/RRobertson2/Configuring-Server-as-a-Domain-Controller/blob/main/README.md">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
