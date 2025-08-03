@@ -47,9 +47,14 @@ Actively pursuing a career in Information Technology with a focus on support and
 
 <!-- Virtualization -->
 <details>
-  <summary><strong>Virtualization & Home Lab</strong></summary>
+  <summary><strong>10 Most Common Troubleshooting Active Directory Issues</strong></summary>
   <br>
-
+<li>
+      <p><strong>10 Most Common Troubleshooting Active Directory Issues</strong><br>
+      Configuring Windows Server 2022 as a domain controller on a virtual machine, including Active Directory and certificate services.<br>
+      <a href="https://github.com/RRobertson2/Configuring-Server-as-a-Domain-Controller/blob/main/README.md">View Repository</a></p>
+      <hr style="opacity: 0.1;">
+    </li>
 
  
 </details>
