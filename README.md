@@ -58,8 +58,8 @@ Actively pursuing a career in Information Technology with a focus on support and
      </li>
     <li>
       <p><strong> 2. Account Locked Out in Active Directory</strong><br>
-      This issue occurs when a user's password has expired per domain policy or was flagged for change and the user is unable to log in.<br>
-      <a href="https://github.com/RRobertson2/Troubleshooting-Expired-User-Accounts-AD">View Repository</a></p>
+      Resolved an Active Directory account lockout by locating the user object, resetting credentials, enforcing a password update.<br>
+      <a href="https://github.com/RRobertson2/Account-Locked-Out-in-Active-Directory">View Repository</a></p>
       <hr style="opacity: 0.1;">
      </li>
   </ul>
