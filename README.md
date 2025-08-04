@@ -47,7 +47,7 @@ Actively pursuing a career in Information Technology with a focus on support and
 
 <!-- 10 most Common Troubleshooting Issues -->
 <details>
-  <summary><strong>10 Most Common Active Directory Issues</strong></summary>
+  <summary><strong>Most Common Active Directory Issues</strong></summary>
   <br>
   <ul>
     <li>
