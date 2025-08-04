@@ -25,8 +25,8 @@ Actively pursuing a career in Information Technology with a focus on support and
       <hr style="opacity: 0.1;">
     </li>
     <li>
-      <p><strong>Organizational Unit</strong><br>
-      Configuring Windows Server 2022 as a domain controller on a virtual machine, including Active Directory and certificate services.<br>
+      <p><strong>Organizational Units and Group-Based Access Management in Active Directory</strong><br>
+      Configured and managed a structured Active Directory environment by designing a departmental OU hierarchy, creating security groups, assigning permissions, and validating access control through mapped drives and share-level security.<br>
       <a href="https://github.com/RRobertson2/OU-Structure-and-Access-Control">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
