@@ -25,9 +25,9 @@ Actively pursuing a career in Information Technology with a focus on support and
       <hr style="opacity: 0.1;">
     </li>
     <li>
-      <p><strong>Configuring Server as a Domain Controller</strong><br>
+      <p><strong>Organizational Unit</strong><br>
       Configuring Windows Server 2022 as a domain controller on a virtual machine, including Active Directory and certificate services.<br>
-      <a href="https://github.com/RRobertson2/Configuring-Server-as-a-Domain-Controller/blob/main/README.md">View Repository</a></p>
+      <a href="https://github.com/RRobertson2/OU-Structure-and-Access-Control">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
     <li>
