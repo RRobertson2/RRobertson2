@@ -42,6 +42,11 @@ Actively pursuing a career in Information Technology with a focus on support and
       <a href="https://github.com/RRobertson2/Joining-a-Windows-11-Virtual-Machine-to-an-Active-Directory-Domain">View Repository</a></p>
       <hr style="opacity: 0.1;">
     </li>
+     <li>
+      <p><strong>Group Policy – Workstation Security Baseline</strong><br>
+      xxxxxxxxxxxxx<br>
+      <a href="xxxxxxxxxxxxxx">View Repository</a></p>
+      <hr style="opacity: 0.1;">
   </ul>
 </details>
 
