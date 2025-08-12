@@ -45,7 +45,7 @@ Actively pursuing a career in Information Technology with a focus on support and
      <li>
       <p><strong>Group Policy – Workstation Security Baseline</strong><br>
       xxxxxxxxxxxxx<br>
-      <a href="xxxxxxxxxxxxxx">View Repository</a></p>
+      <a href="https://github.com/RRobertson2/Group-Policy_Workstation-Security-Baseline">View Repository</a></p>
       <hr style="opacity: 0.1;">
   </ul>
 </details>
