@@ -44,7 +44,7 @@ Actively pursuing a career in Information Technology with a focus on support and
     </li>
      <li>
       <p><strong>Group Policy – Workstation Security Baseline</strong><br>
-      xxxxxxxxxxxxx<br>
+      Configures a Group Policy Object in Windows Server 2022 to restrict system access, block removable media, and enforce security settings on domain workstations.<br>
       <a href="https://github.com/RRobertson2/Group-Policy_Workstation-Security-Baseline">View Repository</a></p>
       <hr style="opacity: 0.1;">
   </ul>
