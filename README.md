@@ -9,7 +9,7 @@ Actively pursuing a career in Information Technology with a focus on support and
 ## Projects
 <!-- Active Directory -->
 <details>
-  <summary><strong>Active Directory</strong></summary>
+  <summary><strong>On-Prem Active Directory</strong></summary>
   <br>
   <ul>
     <li>
@@ -48,6 +48,20 @@ Actively pursuing a career in Information Technology with a focus on support and
       <a href="https://github.com/RRobertson2/Group-Policy_Workstation-Security-Baseline">View Repository</a></p>
       <hr style="opacity: 0.1;">
   </ul>
+</details>
+<!-- Cloud -->
+<details>
+  <summary><strong>Cloud</strong></summary>
+<br>
+  <ul>
+    <li>
+      <p><strong> Azure Entra ID Custom Domain Integration</strong><br>
+     Configured a GoDaddy-purchased domain in Microsoft Entra ID by adding DNS TXT records for verification, setting it as primary, and applying it to user accounts for branded authentication and email services.<br>
+      <a href="xxxxxxxxxx">View Repository</a></p>
+      <hr style="opacity: 0.1;">
+     </li>
+  </ul>
+  
 </details>
 
 <!-- 10 most Common Troubleshooting Issues -->
