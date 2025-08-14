@@ -57,7 +57,7 @@ Actively pursuing a career in Information Technology with a focus on support and
     <li>
       <p><strong> Azure Entra ID Custom Domain Integration</strong><br>
      Configured a GoDaddy-purchased domain in Microsoft Entra ID by adding DNS TXT records for verification, setting it as primary, and applying it to user accounts for branded authentication and email services.<br>
-      <a href="xxxxxxxxxx">View Repository</a></p>
+      <a href="https://github.com/RRobertson2/Azure-Entra-ID-Custom-Domain-Setup">View Repository</a></p>
       <hr style="opacity: 0.1;">
      </li>
   </ul>
