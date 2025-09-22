@@ -88,9 +88,15 @@ Actively pursuing a career in Information Technology with a focus on support and
 <details>
   <summary><strong>Networking & Security</strong></summary>
   <br>
+  <ul>
+    <li>
+      <p><strong> LAMP to osTicket Setup</strong><br>
+     This project demonstrates deploying the osTicket helpdesk system on a Linux virtual machine using the LAMP stack (Linux, Apache, MariaDB, PHP). The build included SSH configuration, database creation, SSL certificate setup, firewall rules, and post-install hardening for a secure, functional ticketing environment.<br>
+      <a href="https://github.com/RRobertson2/Azure-Entra-ID-Custom-Domain-Setup">View Repository</a></p>
+      <hr style="opacity: 0.1;">
+     </li>
+  </ul>
 
-
-  
 </details>
 
 <!-- Media Server -->
